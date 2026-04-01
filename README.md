@@ -4,7 +4,7 @@ A lightweight Windows utility for renaming media files based on their creation o
 
 **Platform:** Windows  
 **Author:** Z  
-**Copyright 2026 Z**
+Copyright 2026 Z
 
 ---
 
