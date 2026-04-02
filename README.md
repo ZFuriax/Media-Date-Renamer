@@ -1,6 +1,6 @@
 # Media Date Renamer
 
-A lightweight Windows utility for renaming media files based on their creation or metadata dates.
+A lightweight Windows utility for renaming media files based on their date taken or creation dates.
 
 **Platform:** Windows  
 **Author:** Z  
